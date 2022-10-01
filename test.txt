@@ -1,4 +1,8 @@
 Git is a version control system.
 Git is free software.
 test branch dev
-master change
+<<<<<<< HEAD
+master dev change
+=======
+master dev change
+>>>>>>> dev
